@@ -1,6 +1,6 @@
-![logo](https://github.com/IqrarHussain35/IqrarHussain35/blob/main/githubbanner2.png)
-<h1 align="center">Hi 👋, I'm Iqrar Hussain</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+![logo](https://github.com/IqrarHussain35/IqrarHussain35/blob/main/banner.png)
+<h1 align="center">I'm Iqrar Hussain</h1>
+<h3 align="center">A experienced Frontend Developer from Pakistan</h3>
 <img align='right' alt='coding' width='400' src='https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqrarhussain35&label=Profile%20views&color=0e75b6&style=flat" alt="iqrarhussain35" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **iamiqrarhussain.siddiqui@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny 😂**
+- ⚡ Fun fact **Best code comes after midnight.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
