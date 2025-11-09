@@ -4,15 +4,10 @@
 <img align='right' alt='coding' width='400' src='https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqrarhussain35&label=Profile%20views&color=0e75b6&style=flat" alt="iqrarhussain35" /> </p>
 
-- 🔭 I’m currently working on **Online Doctors Appointments**
-
-- 🌱 I’m currently learning **Node Js**
-
-- 💬 Ask me about **React js ,Next js And Typescript**
-
-- 📫 How to reach me **iamiqrarhussain.siddiqui@gmail.com**
-
-- ⚡ Fun fact **Best code comes after midnight.**
+- 🔭 I’m currently working as a Frontend Developer  
+- 💬 Ask me about **React.js, Next.js, TypeScript**  
+- 📫 Reach me at **iamiqrarhussain.siddiqui@gmail.com**  
+- ⚡ Fun fact: **The best code comes after midnight.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
